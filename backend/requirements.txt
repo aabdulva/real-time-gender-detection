@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+soundfile 
+speechrecognition
+transformers
+torch
+torchaudio
+librosa
+numpy
+websockets
+hydra-core
+omegaconf
+regex
+
